@@ -1,1 +1,1 @@
-<img height="150" width="150" src="https://github.com/prodis/prodis/blob/master/prodis.gif" alt="Prodis">
+<a href="https://fernandohamasaki.com" title="Prodis' Blog" target="_blank"><img height="102" width="151" src="https://github.com/prodis/prodis/blob/master/prodis.png" alt="Prodis"></a>
